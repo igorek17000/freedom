@@ -1,0 +1,143 @@
+2022-06-19 21:18:02,592||INFO||Login.py||initialize_log||71||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:18:02,592||INFO||Login.py||initialize_log||72||Starting The Application
+2022-06-19 21:18:02,592||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:18:02,592||INFO||Login.py||read_config||37||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022']}
+2022-06-19 21:18:28,587||INFO||Login.py||initialize_log||71||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:18:28,587||INFO||Login.py||initialize_log||72||Starting The Application
+2022-06-19 21:18:28,587||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:18:28,602||INFO||Login.py||read_config||37||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/6/2022']}
+2022-06-19 21:19:22,358||INFO||Login.py||initialize_log||71||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:19:22,358||INFO||Login.py||initialize_log||72||Starting The Application
+2022-06-19 21:19:22,358||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:19:22,358||INFO||Login.py||read_config||37||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/6/2022']}
+2022-06-19 21:19:22,358||INFO||Login.py||is_holiday||42||Checking for Trade Holiday
+2022-06-19 21:20:17,134||INFO||Login.py||initialize_log||72||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:20:17,134||INFO||Login.py||initialize_log||73||Starting The Application
+2022-06-19 21:20:17,134||INFO||Login.py||initialize_log||74||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:20:17,134||INFO||Login.py||read_config||38||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/6/2022']}
+2022-06-19 21:20:17,134||INFO||Login.py||is_holiday||43||Checking for Trade Holiday
+2022-06-19 21:21:05,219||INFO||Login.py||initialize_log||72||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:21:05,219||INFO||Login.py||initialize_log||73||Starting The Application
+2022-06-19 21:21:05,219||INFO||Login.py||initialize_log||74||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:21:05,219||INFO||Login.py||read_config||38||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:21:05,219||INFO||Login.py||is_holiday||43||Checking for Trade Holiday
+2022-06-19 21:21:05,219||INFO||Login.py||is_holiday||46||Today Is Trade Holiday
+2022-06-19 21:25:28,620||INFO||Login.py||initialize_log||72||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:25:28,620||INFO||Login.py||initialize_log||73||Starting The Application
+2022-06-19 21:25:28,620||INFO||Login.py||initialize_log||74||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:25:28,620||INFO||Login.py||read_config||38||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:25:28,620||INFO||Login.py||is_holiday||43||Checking for Trade Holiday
+2022-06-19 21:25:28,620||INFO||Login.py||is_holiday||46||Today Is Trade Holiday
+2022-06-19 21:26:30,182||INFO||Login.py||initialize_log||72||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:26:30,182||INFO||Login.py||initialize_log||73||Starting The Application
+2022-06-19 21:26:30,182||INFO||Login.py||initialize_log||74||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:26:30,182||INFO||Login.py||read_config||38||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:26:30,182||INFO||Login.py||is_holiday||43||Checking for Trade Holiday
+2022-06-19 21:26:30,182||INFO||Login.py||is_holiday||46||Today Is Trade Holiday
+2022-06-19 21:26:43,257||INFO||Login.py||initialize_log||72||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:26:43,257||INFO||Login.py||initialize_log||73||Starting The Application
+2022-06-19 21:26:43,257||INFO||Login.py||initialize_log||74||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:26:43,257||INFO||Login.py||read_config||38||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:26:43,257||INFO||Login.py||is_holiday||43||Checking for Trade Holiday
+2022-06-19 21:26:43,257||INFO||Login.py||is_holiday||46||Today Is Trade Holiday
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||98||-- BEGIN Twilio API Request --
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||104||POST Request: https://api.twilio.com/2010-04-01/Accounts/ACf5eb1889f50c21aed3574cf3293880a3/Messages.json
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||107||Headers:
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||111||User-Agent : twilio-python/7.9.3 (Windows AMD64) Python/3.10.0
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||111||X-Twilio-Client : python-7.9.3
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||111||Accept-Charset : utf-8
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||111||Content-Type : application/x-www-form-urlencoded
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||111||Accept : application/json
+2022-06-19 21:26:43,320||INFO||http_client.py||_log_request||113||-- END Twilio API Request --
+2022-06-19 21:26:45,069||INFO||http_client.py||_log_response||116||Response Status Code: 201
+2022-06-19 21:26:45,069||INFO||http_client.py||_log_response||117||Response Headers: {'Date': 'Sun, 19 Jun 2022 15:56:44 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '806', 'Connection': 'keep-alive', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ43e572fcb552ee902bb910c45f705413', 'Twilio-Request-Duration': '0.120', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000'}
+2022-06-19 21:27:04,144||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:27:04,144||INFO||Login.py||initialize_log||74||Starting The Application
+2022-06-19 21:27:04,144||INFO||Login.py||initialize_log||75||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:27:04,144||INFO||Login.py||read_config||39||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:27:04,144||INFO||Login.py||is_holiday||44||Checking for Trade Holiday
+2022-06-19 21:27:04,144||INFO||Login.py||is_holiday||47||Today Is Trade Holiday
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||98||-- BEGIN Twilio API Request --
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||104||POST Request: https://api.twilio.com/2010-04-01/Accounts/ACf5eb1889f50c21aed3574cf3293880a3/Messages.json
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||107||Headers:
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||111||User-Agent : twilio-python/7.9.3 (Windows AMD64) Python/3.10.0
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||111||X-Twilio-Client : python-7.9.3
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||111||Accept-Charset : utf-8
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||111||Content-Type : application/x-www-form-urlencoded
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||111||Accept : application/json
+2022-06-19 21:27:04,206||INFO||http_client.py||_log_request||113||-- END Twilio API Request --
+2022-06-19 21:27:05,722||INFO||http_client.py||_log_response||116||Response Status Code: 201
+2022-06-19 21:27:05,722||INFO||http_client.py||_log_response||117||Response Headers: {'Date': 'Sun, 19 Jun 2022 15:57:04 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '806', 'Connection': 'keep-alive', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQaf47bef01ff92c055066efd99d699680', 'Twilio-Request-Duration': '0.169', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000'}
+2022-06-19 21:28:05,041||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:28:05,041||INFO||Login.py||initialize_log||74||Starting The Application
+2022-06-19 21:28:05,041||INFO||Login.py||initialize_log||75||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:28:05,041||INFO||Login.py||read_config||39||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:28:05,041||INFO||Login.py||is_holiday||44||Checking for Trade Holiday
+2022-06-19 21:28:05,041||INFO||Login.py||is_holiday||47||Today Is Trade Holiday
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||98||-- BEGIN Twilio API Request --
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||104||POST Request: https://api.twilio.com/2010-04-01/Accounts/ACf5eb1889f50c21aed3574cf3293880a3/Messages.json
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||107||Headers:
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||111||User-Agent : twilio-python/7.9.3 (Windows AMD64) Python/3.10.0
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||111||X-Twilio-Client : python-7.9.3
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||111||Accept-Charset : utf-8
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||111||Content-Type : application/x-www-form-urlencoded
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||111||Accept : application/json
+2022-06-19 21:28:05,119||INFO||http_client.py||_log_request||113||-- END Twilio API Request --
+2022-06-19 21:28:06,774||INFO||http_client.py||_log_response||116||Response Status Code: 201
+2022-06-19 21:28:06,774||INFO||http_client.py||_log_response||117||Response Headers: {'Date': 'Sun, 19 Jun 2022 15:58:06 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '810', 'Connection': 'keep-alive', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQd76f81104a1892cabbaa2e4ab788631a', 'Twilio-Request-Duration': '0.123', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000'}
+2022-06-19 21:28:33,370||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:28:33,370||INFO||Login.py||initialize_log||74||Starting The Application
+2022-06-19 21:28:33,370||INFO||Login.py||initialize_log||75||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:28:33,370||INFO||Login.py||read_config||39||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:28:33,370||INFO||Login.py||is_holiday||44||Checking for Trade Holiday
+2022-06-19 21:28:33,370||INFO||Login.py||is_holiday||47||Today Is Trade Holiday
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||98||-- BEGIN Twilio API Request --
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||104||POST Request: https://api.twilio.com/2010-04-01/Accounts/ACf5eb1889f50c21aed3574cf3293880a3/Messages.json
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||107||Headers:
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||111||User-Agent : twilio-python/7.9.3 (Windows AMD64) Python/3.10.0
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||111||X-Twilio-Client : python-7.9.3
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||111||Accept-Charset : utf-8
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||111||Content-Type : application/x-www-form-urlencoded
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||111||Accept : application/json
+2022-06-19 21:28:33,449||INFO||http_client.py||_log_request||113||-- END Twilio API Request --
+2022-06-19 21:28:35,026||INFO||http_client.py||_log_response||116||Response Status Code: 201
+2022-06-19 21:28:35,026||INFO||http_client.py||_log_response||117||Response Headers: {'Date': 'Sun, 19 Jun 2022 15:58:34 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '810', 'Connection': 'keep-alive', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ61ba792af5a8920d2a9c23b3ddd11e53', 'Twilio-Request-Duration': '0.113', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000'}
+2022-06-19 21:28:51,852||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:28:51,852||INFO||Login.py||initialize_log||74||Starting The Application
+2022-06-19 21:28:51,852||INFO||Login.py||initialize_log||75||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:28:51,852||INFO||Login.py||read_config||39||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022', '19/06/2022']}
+2022-06-19 21:28:51,852||INFO||Login.py||is_holiday||44||Checking for Trade Holiday
+2022-06-19 21:28:51,852||INFO||Login.py||is_holiday||47||Today Is Trade Holiday
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||98||-- BEGIN Twilio API Request --
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||104||POST Request: https://api.twilio.com/2010-04-01/Accounts/ACf5eb1889f50c21aed3574cf3293880a3/Messages.json
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||107||Headers:
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||111||User-Agent : twilio-python/7.9.3 (Windows AMD64) Python/3.10.0
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||111||X-Twilio-Client : python-7.9.3
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||111||Accept-Charset : utf-8
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||111||Content-Type : application/x-www-form-urlencoded
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||111||Accept : application/json
+2022-06-19 21:28:51,930||INFO||http_client.py||_log_request||113||-- END Twilio API Request --
+2022-06-19 21:28:53,804||INFO||http_client.py||_log_response||116||Response Status Code: 201
+2022-06-19 21:28:53,804||INFO||http_client.py||_log_response||117||Response Headers: {'Date': 'Sun, 19 Jun 2022 15:58:53 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Content-Length': '810', 'Connection': 'keep-alive', 'Twilio-Concurrent-Requests': '1', 'Twilio-Request-Id': 'RQ57444bb19d7766fda26726708cfe3605', 'Twilio-Request-Duration': '0.116', 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Headers': 'Accept, Authorization, Content-Type, If-Match, If-Modified-Since, If-None-Match, If-Unmodified-Since', 'Access-Control-Allow-Methods': 'GET, POST, DELETE, OPTIONS', 'Access-Control-Expose-Headers': 'ETag', 'Access-Control-Allow-Credentials': 'true', 'X-Powered-By': 'AT-5000', 'X-Shenanigans': 'none', 'X-Home-Region': 'us1', 'X-API-Domain': 'api.twilio.com', 'Strict-Transport-Security': 'max-age=31536000'}
+2022-06-19 21:28:53,804||INFO||Util.py||notify_message||16||<Twilio.Api.V2010.MessageInstance account_sid=ACf5eb1889f50c21aed3574cf3293880a3 sid=SM0aa551ca1dd0464d93d6c6ab93aec554>
+2022-06-19 21:31:29,202||INFO||Login.py||initialize_log||69||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:31:29,202||INFO||Login.py||initialize_log||70||Starting The Application
+2022-06-19 21:31:29,202||INFO||Login.py||initialize_log||71||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:31:42,981||INFO||Login.py||initialize_log||70||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:31:42,981||INFO||Login.py||initialize_log||71||Starting The Application
+2022-06-19 21:31:42,981||INFO||Login.py||initialize_log||72||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:31:42,981||INFO||Login.py||read_config||36||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022']}
+2022-06-19 21:31:42,981||INFO||Login.py||is_holiday||41||Checking for Trade Holiday
+2022-06-19 21:32:15,321||INFO||Login.py||initialize_log||71||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:32:15,321||INFO||Login.py||initialize_log||72||Starting The Application
+2022-06-19 21:32:15,321||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:32:15,321||INFO||Login.py||read_config||37||{'login_details': {'user_name': 'LH8735', 'user_password': '78jBrna6Ycj&5SSE', 'api_key': 'yxrwphfcjpwe3104', 'api_secret': 'yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e', 'totp_key': '376OWUVNA3VYV6LU23R7HXYTNFTYC7KW', 'tbot_token': '5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0', 'tbot_id': '991843310', 'redirect_url': 'http://localhost:8080/apis/broker/login/zerodha'}, 'trade_holidays': ['26/01/2022', '01/03/2022', '18/03/2022', '14/04/2022', '15/04/2022', '03/05/2022', '09/08/2022', '15/08/2022', '31/08/2022', '05/10/2022', '24/10/2022', '26/10/2022', '08/11/2022']}
+2022-06-19 21:32:15,321||INFO||Login.py||is_holiday||42||Checking for Trade Holiday
+2022-06-19 21:33:06,665||INFO||Login.py||initialize_log||71||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:33:06,665||INFO||Login.py||initialize_log||72||Starting The Application
+2022-06-19 21:33:06,665||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:33:06,665||INFO||Login.py||is_holiday||42||Checking for Trade Holiday
+2022-06-19 21:33:49,836||INFO||Login.py||initialize_log||71||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:33:49,836||INFO||Login.py||initialize_log||72||Starting The Application
+2022-06-19 21:33:49,836||INFO||Login.py||initialize_log||73||++++++++++++++++++++++++++++++++++++++++++++++++++++
+2022-06-19 21:33:49,836||INFO||Login.py||is_holiday||42||Checking for Trade Holiday

@@ -1,0 +1,27 @@
+{
+  "login_details": {
+    "user_name": "LH8735",
+    "user_password": "78jBrna6Ycj&5SSE",
+    "api_key": "yxrwphfcjpwe3104",
+    "api_secret": "yi3xwwa6xbs36uz6i5o4h4cim2r5ab2e",
+    "totp_key": "376OWUVNA3VYV6LU23R7HXYTNFTYC7KW",
+    "tbot_token": "5067002151:AAHpDvWf3LF6k-7egQJFHw3rjQe0fCJ43H0",
+    "tbot_id": "991843310",
+    "redirect_url": "http://localhost:8080/apis/broker/login/zerodha"
+  },
+  "trade_holidays": [
+    "26/01/2022",
+    "01/03/2022",
+    "18/03/2022",
+    "14/04/2022",
+    "15/04/2022",
+    "03/05/2022",
+    "09/08/2022",
+    "15/08/2022",
+    "31/08/2022",
+    "05/10/2022",
+    "24/10/2022",
+    "26/10/2022",
+    "08/11/2022"
+  ]
+}
