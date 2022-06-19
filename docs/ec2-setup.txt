@@ -1,0 +1,46 @@
+
+sudo su
+
+
+
+# adding -y to auto install
+# adding unzip command..
+apt-get update && apt-get upgrade -y
+apt-get -y install unzip
+
+
+# change TimeZone to Asia/Kolkata
+sudo dpkg-reconfigure tzdata - follow the instructions to select Region/Country
+sudo service cron restart
+timedatectl
+#sudo timedatectl set-timezone Asia/Kolkata
+
+
+
+# install google chrome
+sudo apt update
+sudo apt install -y unzip xvfb libxi6 libgconf-2-4
+sudo curl -sS -o - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add
+sudo bash -c "echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' >> /etc/apt/sources.list.d/google-chrome.list"
+sudo apt -y update
+sudo apt -y install google-chrome-stable
+
+
+# install chromedriver
+google-chrome --version
+
+#check the google chrome version and then change the version accordingly
+wget https://chromedriver.storage.googleapis.com/102.0.5005.27/chromedriver_linux64.zip
+unzip chromedriver_linux64.zip
+
+#move the chromedriver file
+
+sudo mv chromedriver /usr/bin/chromedriver
+sudo chown root:root /usr/bin/chromedriver
+sudo chmod +x /usr/bin/chromedriver
+
+#install chronitor cli
+
+curl -sOL https://cronitor.io/dl/linux_amd64.tar.gz
+sudo tar xvf linux_amd64.tar.gz -C /usr/bin/
+sudo cronitor configure --api-key b637f3a8b03149eb9d4d4b0d42a5d8dc
